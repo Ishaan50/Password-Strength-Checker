@@ -16,4 +16,4 @@ A simple project written in Python that checks password strength and securely ha
 
 ## ▶️ How to Run
 ```bash
-python password_checker.py
+python psc.py
