@@ -1,5 +1,5 @@
-# Password-Strength-Checker 🔐
-A simple project written in Python that checks password strength and securely hashes passwords.
+# Password-Strength-Checker 
+A simple project written in Python that checks password strength and hashes passwords using SHA-256.
 
 ## Features 🚀
 - Checks password length
