@@ -29,7 +29,7 @@ def check_strength(password):
 
 password = input("Enter a password: ")
 
-result, feedback = check_strength(password)
+result , feedback = check_strength(password)
 
 print("\nResult:", result)
 for reason in feedback:
@@ -45,4 +45,5 @@ hashed_pw = hash_password(password)
 
 print(f"\n{password} hashed form :")
 print(hashed_pw)
+
 
