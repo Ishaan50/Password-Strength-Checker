@@ -43,5 +43,6 @@ def hash_password(password):
 
 hashed_pw = hash_password(password)
 
-print("\nHashed Password (You’re using):")
+print(f"\n{password} hashed form :")
 print(hashed_pw)
+
